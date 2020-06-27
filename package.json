@@ -1,0 +1,16 @@
+{
+	"name": "azure-real-time",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@azure/event-hubs": "^5.2.1",
+		"dotenv": "^8.2.0"
+	}
+}
